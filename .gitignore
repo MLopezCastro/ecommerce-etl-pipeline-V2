@@ -16,11 +16,6 @@ logs/
 .DS_Store
 Thumbs.db
 
-# Entorno virtual
-venv/
-# Archivos intermedios
-__pycache__/
-*.pyc
 # Datos
 data/output/
 

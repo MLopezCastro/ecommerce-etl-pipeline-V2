@@ -15,3 +15,7 @@ logs/
 # Archivos del sistema (opcional)
 .DS_Store
 Thumbs.db
+
+# Datos
+data/output/
+

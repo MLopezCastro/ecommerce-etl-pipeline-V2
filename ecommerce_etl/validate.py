@@ -13,3 +13,4 @@ def allowed_status(df):
     bad = df.loc[~df["status"].isin(allowed), "status"].unique()
     if len(bad):
         raise ValueError(f"status inválido: {bad}")
+

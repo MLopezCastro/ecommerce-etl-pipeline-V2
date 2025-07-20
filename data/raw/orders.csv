@@ -2,3 +2,30 @@ order_id,order_date,customer_id,product_id,product_name,quantity,unit_price,curr
 1001,1/15/2025,501,78,Wireless Mouse,2,19.99,USD,shipped
 1002,1/16/2025,502,79,Gaming Keyboard,1,49.99,USD,pending
 1003,1/17/2025,503,80,USB-C Hub,3,29.99,USD,returned
+1004,1/17/2025,504,81,Laptop Stand,1,39.99,USD,shipped
+1005,1/18/2025,505,82,Noise Cancelling Headphones,1,89.99,USD,cancelled
+1006,1/18/2025,506,83,Webcam HD,2,45.99,USD,shipped
+1007,1/19/2025,507,84,Portable SSD 1TB,1,129.99,USD,pending
+1008,1/19/2025,508,85,Ergonomic Chair,1,199.99,USD,shipped
+1009,1/20/2025,509,86,Monitor 24",2,139.99,USD,shipped
+1010,1/20/2025,510,87,Wireless Charger,4,24.99,USD,returned
+1011,1/21/2025,511,88,Mechanical Keyboard,1,79.99,USD,shipped
+1012,1/21/2025,512,89,Stylus Pen,2,15.99,USD,pending
+1013,1/22/2025,513,90,Laptop Backpack,1,59.99,USD,shipped
+1014,1/22/2025,514,91,HDMI Cable,3,9.99,USD,cancelled
+1015,1/23/2025,515,92,Graphic Tablet,1,149.99,USD,shipped
+1016,1/23/2025,516,93,Smartwatch,2,199.99,USD,pending
+1017,1/24/2025,517,94,VR Headset,1,299.99,USD,shipped
+1018,1/24/2025,518,95,Desk Lamp LED,2,34.99,USD,shipped
+1019,1/25/2025,519,96,Smartphone Stand,3,11.99,USD,returned
+1020,1/25/2025,520,97,USB Drive 64GB,5,12.99,USD,shipped
+1021,1/26/2025,521,98,Bluetooth Speaker,1,59.99,USD,cancelled
+1022,1/26/2025,522,99,Wireless Earbuds,2,89.99,USD,shipped
+1023,1/27/2025,523,100,Router Wi-Fi 6,1,129.99,USD,shipped
+1024,1/27/2025,524,101,Laptop Cooling Pad,1,24.99,USD,pending
+1025,1/28/2025,525,102,External Hard Drive 2TB,1,89.99,USD,shipped
+1026,1/28/2025,526,103,USB-C to HDMI Adapter,3,19.99,USD,returned
+1027,1/29/2025,527,104,Compact Bluetooth Mouse,2,25.99,USD,shipped
+1028,1/29/2025,528,105,Noise Isolating Earbuds,1,39.99,USD,pending
+1029,1/30/2025,529,106,Power Bank 10000mAh,2,29.99,USD,shipped
+1030,1/30/2025,530,107,Curved Monitor 27",1,239.99,USD,shipped
